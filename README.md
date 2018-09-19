@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/Palarisk/lines-and-stuff.svg?branch=master)](https://travis-ci.org/Palarisk/lines-and-stuff)

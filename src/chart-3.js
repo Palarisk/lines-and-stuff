@@ -64,7 +64,7 @@ function ready(datapoints) {
     .attr('stroke', 'lightblue')
     .attr('stroke-width', 2)
     .attr('fill', 'none')
-    //jos haluisit eriväriset  linet niin funktio tähän väliin
+    // jos haluisit eriväriset  linet niin funktio tähän väliin
     .attr('d', d => {
       return line(d.values)
     })
